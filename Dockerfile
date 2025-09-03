@@ -1,4 +1,4 @@
 from nginx
 maintainer adinarayana
 label this is my first dockerfile
-copy index.html /usr/share/nginx/html/webapps/
+copy index.html /usr/share/nginx/html/
